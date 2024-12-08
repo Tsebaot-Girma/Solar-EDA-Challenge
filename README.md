@@ -1,4 +1,5 @@
 Project Title: Solar EDA Challenge.
+
 Overview:
 
 This project is part of the Week 0 Challenge for the 10 Academy Artificial Intelligence Mastery program. The goal is to analyze solar radiation data and derive actionable insights for optimizing solar energy investments in specific regions. The challenge includes exploratory data analysis (EDA), statistical modeling, and the creation of an interactive Streamlit dashboard to visualize findings.
@@ -6,6 +7,7 @@ This project is part of the Week 0 Challenge for the 10 Academy Artificial Intel
 Dataset:
 
 The dataset consists of solar radiation and environmental measurements across various regions. Key features include:
+
 
 Timestamp: Date and time of each observation.
 
@@ -28,7 +30,9 @@ Cleaning: Indicates if cleaning occurred (binary: 1 or 0)
 Tasks:
 
 Git and GitHub setup.
+
 EDA and statistical insights.
+
 Streamlit dashboard development.
 
 How to Use:
